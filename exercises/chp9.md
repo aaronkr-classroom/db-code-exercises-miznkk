@@ -83,11 +83,16 @@
 | 고객구분코드 | Silver | 5천 이상 | 7% | 700만 원 |
 | 고객구분코드 | Gold | 7천 이상 | 10% | 1,000만 원 |
 | 고객구분코드 | Black | 1억 이상 | 10% | 2.000만 원 |
-<img width="306" height="163" alt="image" src="https://github.com/user-attachments/assets/f383fbf9-f829-41cd-b0fe-9268f2e3d102" />
+<img width="306" height="163" alt="image " src="https://github.com/user-attachments/assets/f383fbf9-f829-41cd-b0fe-9268f2e3d102" />
 
 11. 어떤 클럽의 회원이 각종 행사에 참석한 내역을 기록하기 위해 다음과 같은 ER 다이어그램을 작성하였다. 이 ER 다이어그램을 릴레이션 스키마로 변환하시오. (351쪽에 보세요)
 <img width="1106" height="265" alt="image" src="https://github.com/user-attachments/assets/45313e2b-a224-4c99-85eb-1285e16643cc" />
 
 12. 크게 계획 단계， 준비 단계， 철거 단계， 건축 단계， 마무리 단계， 입주 단계로 진행되는 아파트 재건축 공사의 진행 상황을 관라하기 위한 ER 다이어그램을 작성하고， 릴례이션 스키마로 변환하시오. 단， 아파트는 건물번호， 이름 · 주소 · 시공사 · 세대수 · 입주시작일 속성을 갖고， 진행단계는 순서 · 주관사 · 연락처 · 시작일자 · 종료일자 속성을 갖는다.
+<img width="910" height="458" alt="image" src="https://github.com/user-attachments/assets/23710c1e-c8f6-4b1c-a026-d7cf3c6a12ff" />
+<img width="930" height="346" alt="image" src="https://github.com/user-attachments/assets/f3ed1a1c-149d-4bd1-9e0f-c946777fac77" />
 
-13. 어떤 주식의 주가가 변동된 시점과 주기를 관리하기 위한 ER 다이어그램을 작성하고， 릴레이션 스키마로 변환하시오. 단， 주식은 종목묘드 · 종목명 · 업종 · 총주식수 속성을 갖고， 주가의 변동 이력은 일시와주가속성을갖는다.
+
+13. 어떤 주식의 주가가 변동된 시점과 주기를 관리하기 위한 ER 다이어그램을 작성하고， 릴레이션 스키마로 변환하시오. 단， 주식은 종목코드 · 종목명 · 업종 · 총주식수 속성을 갖고， 주가의 변동 이력은 일시와 주가 속성을갖는다.
+<img width="846" height="344" alt="image" src="https://github.com/user-attachments/assets/8fba1e1d-d1f5-4884-9a9c-b778a83b40d0" />
+<img width="799" height="193" alt="image" src="https://github.com/user-attachments/assets/a680ea85-1e03-4a3f-a2f0-57833073d04a" />
